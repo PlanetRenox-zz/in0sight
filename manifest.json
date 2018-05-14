@@ -1,0 +1,30 @@
+{
+
+  "manifest_version": 2,
+  "name": "inØsight — Zero Width Obfuscation",
+  "version": "1.0",
+
+  "author": "PlanetRenox.com",
+  "homepage_url": "https://github.com/PlanetRenox/in0sight",
+  "description": "Communicate undetected in plain sight using zero width obfuscation and get notified of any other characters on the web.",
+
+  "icons": {
+    "48": "icons/icon-48.png"
+  },
+
+  "browser_action": {
+    "browser_style": false,
+    "default_icon": "icons/icon-48.png",
+    "default_title": "inØsight — Zero Width Obfuscation",
+    "default_popup": "ui/ui-structure.html"
+  },
+
+  "content_scripts": [
+    {
+    "matches": ["<all_urls>"],
+    "exclude_matches": ["*://*.google.com/*"],
+    "js": ["cs/content.js"]
+    }
+  ]
+
+}
