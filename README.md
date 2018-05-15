@@ -1,4 +1,4 @@
-# inØsight
+# inØsight [![Mozilla Add-on](https://img.shields.io/amo/d/dustman.svg)](https://addons.mozilla.org/en-US/firefox/addon/in0sight/)
 
 The extension is able to obfuscate as much information as it can take. You can hide entire PGP messages inside version 1. 
 Version 1 supports almost every single spacial character and uppercase letters as well.
@@ -12,4 +12,5 @@ If you come across any bugs or questions feel free to contact this account or em
 
 I did ultimately try to create something that i'd want to use myself if I were someone browsing the firefox addons store. If you do come across here and do end up using the addon, definitly let me know your thoughts. 
 
-https://addons.mozilla.org/en-US/firefox/addon/in0sight/
+# License
+[Do What The Fuck You Want To Public License](https://github.com/PlanetRenox/in0sight/blob/master/LICENSE)
