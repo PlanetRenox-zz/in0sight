@@ -1,4 +1,4 @@
-# inØsight [![Mozilla Add-on](https://img.shields.io/amo/d/dustman.svg)](https://addons.mozilla.org/en-US/firefox/addon/in0sight/)
+# inØsight [![Mozilla Add-on](https://img.shields.io/amo/users/in0sight.svg)](https://addons.mozilla.org/en-US/firefox/addon/in0sight/)
 
 The extension is able to obfuscate as much information as it can take. You can hide entire PGP messages inside version 1. 
 Version 1 supports almost every single spacial character and uppercase letters as well.
