@@ -3,7 +3,7 @@
 The extension is able to obfuscate as much information as it can take. You can hide entire PGP messages inside version 1. 
 Versions 2.0 and 2.1 are a lot more limited. They offer compatibility for sites like Twitter and Protonmail. 
 
-If you come across any bugs or questions feel free submit to the issues tab or email at PlanetRenox@PM.ME
+If you come across any bugs or questions submit them to the issues tab or email at planetrenox@pm.me
 
 ###### Some sites use zero width characters in their ui functionality and that will set off the 10sec notice. This is a known issue and we will try to narrow it down in the future.
 
