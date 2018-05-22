@@ -17,4 +17,4 @@ The current roadmap for the next update currently includes reworking the 10 seco
 If you do come across here and do end up using the addon, definitly let me know your thoughts. 
 
 # License
-[Do What The Fuck You Want To Public License](https://github.com/PlanetRenox/in0sight/blob/master/LICENSE)
+[WTFPLicense](https://github.com/PlanetRenox/in0sight/blob/master/LICENSE)
