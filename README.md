@@ -13,6 +13,7 @@ If you come across any bugs or questions submit them to the issues tab or email 
 The current roadmap for the next update currently includes reworking the 10 second notice, introducing a much more efficient algorithm to reduce storage size in case of obfuscating larger chunks of text, having the extension auto detect the version, and a completely seperate java client to be run in a desktop enviroment for windows, mac, and linux. And when the more minor details are stable, introduce password encryption on top of the zero width obfuscation. 
 
 * Firefox: [Download](https://addons.mozilla.org/en-US/firefox/addon/in0sight/)
+* Chrome: Under Consideration
 * Desktop Client: TBA
 
 --------------------------------------------------------------
