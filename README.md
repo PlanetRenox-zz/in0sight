@@ -4,7 +4,7 @@ This extension is able to detect and obfuscate any message inside hidden zero wi
 
 There is no limit. You can hide entire PGP messages inside version 1. 
 Versions 2.0 and 2.1 are limited in characters. They offer compatibility for sites like Twitter and Protonmail or other places that restrict some ZW characters. 
-Future versions will focus on reducing storage size and so they are even harder to detect. 
+Future versions will focus on reducing storage size so they are even harder to detect. 
 
 If you come across any bugs or questions submit them to the issues tab or email at planetrenox@pm.me
 
