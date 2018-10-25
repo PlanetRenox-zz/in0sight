@@ -14,7 +14,11 @@ The current roadmap for the next update currently includes reworking the 10 seco
 
 --------------------------------------------------------------
 
-If you do come across here and do end up using the addon, definitly let me know your thoughts. 
+Contributors are welcome to help improve/expand the project. Also willing to assign a co-dev position if the vision is there. This being a 100% solo project, finding the time is difficult since I am also working on other projects/school. No matter how minor the pull request, you will be credited. 
+
+Next update is planned for December 2018.
+
+###### It should also be mentioned that if the zero width is inserted using javascript after the page loads, it will not be detected. This is preferred so the addon doesn't use too many resources. If your threat level is that high, using NoScript is recommended.
 
 # License
 [WTFPL](https://github.com/PlanetRenox/in0sight/blob/master/LICENSE)
