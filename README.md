@@ -1,28 +1,23 @@
-# inØsight [![Mozilla Add-on](https://img.shields.io/amo/users/in0sight.svg)](https://addons.mozilla.org/en-US/firefox/addon/in0sight/) [![License](https://img.shields.io/github/license/planetrenox/in0sight.svg)](https://github.com/PlanetRenox/in0sight/blob/master/LICENSE)
+# in<a href="https://addons.mozilla.org/en-US/firefox/addon/in0sight/"><img src="/icons/icon-48.png?raw=true" alt="alt text" width="22px"></a>sight <img src="https://img.shields.io/badge/Maintained%20%3F-Yes-green.svg"> <img src="https://badges.frapsoft.com/os/v2/open-source.png?v=103"> <img src="https://img.shields.io/badge/version-1.1-lightgrey.svg"> [![Mozilla Add-on](https://img.shields.io/amo/users/in0sight.svg)](https://addons.mozilla.org/en-US/firefox/addon/in0sight/) [![License](https://img.shields.io/github/license/planetrenox/in0sight.svg)](https://github.com/PlanetRenox/in0sight/blob/master/LICENSE) 
 
-This extension is able to detect and obfuscate any message inside hidden zero width spaces which can be placed (almost) anywhere invisible to the naked eye. 
+This extension is able to detect and obfuscate any message inside zero width spaces which can be placed almost anywhere invisible to the naked eye. Giving you the ability to communicate hidden plain sight. 
 
-There is no limit. You can hide entire PGP messages inside version 1. 
-Versions 2.0 and 2.1 are limited in characters. They offer compatibility for sites like Twitter and Protonmail or other places that restrict some ZW characters. 
-Future versions will focus on reducing storage size so they are even harder to detect. 
+There is no limit in text length or size. Some websites or services may restrict some zero width characters, however more limited algorithms have been added to get around them. You can view them [here](https://github.com/PlanetRenox/in0sight/blob/master/CompatibilityList.md).
 
-If you come across any bugs or questions submit them to the issues tab or email at planetrenox@pm.me
+If you come across any bugs or questions submit them to the issues tab or contact planetrenox@pm.me
 
-###### Some sites use zero width characters in their ui functionality and that will set off a false 10sec notice. This is a known issue and we will try to narrow it down in the future. If you come across any, please report them in.  
-
-The current roadmap for the next update currently includes reworking the 10 second notice, introducing a much more efficient algorithm to reduce storage size in case of obfuscating larger chunks of text, having the extension auto detect the version, and a completely seperate java client to be run in a desktop enviroment for windows, mac, and linux. And when the more minor details are stable, introduce password encryption on top of the zero width obfuscation. 
+###### Recently update 1.1 has been released which improved the storage/size efficiency and addressed many common bugs. While introducing new limited algorithms.
 
 * Firefox: [Download](https://addons.mozilla.org/en-US/firefox/addon/in0sight/)
-* Chrome: Under Consideration
-* Desktop Client: TBA
+* Chrome: Soon™
 
 --------------------------------------------------------------
 
-Contributors are welcome to help improve/expand the project. Also willing to assign a co-dev position if the vision is there. This currently being a 100% solo project, finding the time is difficult since I am also working on other projects/school. No matter how minor the pull request, you will be credited. 
+Contributors are welcome to help improve/expand the project. No matter how minor the pull request, you will be credited. 
 
-Next update is planned for December 2018.
+###### Also while firefox reports that there are only around ~18 users, keep in mind that this only reports signed in users. In reality this addon has over 800 downloads. 
 
-###### It should also be mentioned that if the zero width is inserted using javascript after the page loads, it will not be detected. This is preferred so the addon doesn't use too many resources. If your threat level is that high, using NoScript is recommended.
+###### It should also be mentioned that if the zero width is inserted using javascript after the page loads, it will not be detected. This is preferred so the addon doesn't use too many resources. If your threat level is high, using NoScript is recommended.
 
 # License
 [WTFPL](https://github.com/PlanetRenox/in0sight/blob/master/LICENSE)
