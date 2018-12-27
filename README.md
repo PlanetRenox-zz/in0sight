@@ -17,7 +17,7 @@ Contributors are welcome to help improve/expand the project. No matter how minor
 
 ###### Also while firefox reports that there are only around ~18 users, keep in mind that this only reports signed in users. In reality this addon has over 800 downloads. 
 
-###### It should also be mentioned that if the zero width is inserted using javascript after the page loads, it will not be detected. This is preferred so the addon doesn't use too many resources. If your threat level is high, using NoScript is recommended.
+###### Soon everything will be moved to gitea. 
 
 # License
 [WTFPL](https://github.com/PlanetRenox/in0sight/blob/master/LICENSE)
