@@ -2,11 +2,11 @@
 
   "manifest_version": 2,
   "name": "inØsight — Zero Width Obfuscation",
-  "version": "1.0",
+  "version": "1.1",
 
   "author": "PlanetRenox.com",
-  "homepage_url": "https://github.com/PlanetRenox/in0sight",
-  "description": "Communicate undetected in plain sight using zero width obfuscation and get notified of any other characters on the web.",
+  "homepage_url": "http://PlanetRenox.com",
+  "description": "Communicate undetected in plain sight using zero width obfuscation.",
 
   "icons": {
     "48": "icons/icon-48.png"
