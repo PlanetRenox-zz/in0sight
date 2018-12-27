@@ -1,13 +1,17 @@
-By default all sites should be compatible with version 1, however rarely some sites such as Twitter restrict some characters so that's why multiple versions exist. Since the addon is still new this list is going to be short, if you discover anything please email or contact us here on github.
+##### Explanation
+Some sites and services restrict some zero width characters so saving the zero width may be an issue. To get around this, certain special limited algorithms have been created which avoid using the restricted characters.
 
-Version 1.0: Majority of sites
+##### List
+Version 1.1 is the current defualt algorithm. It is the most complete in terms of supported characters. It should be supported by majority of services. It was designed to be slightly more efficient than 1.0 in terms of storage size.
 
-Version 2.0: V1 + Twitter
+Limited proT is compatible with ProtonMail.
 
-Version 2.1: V1 + Protonmail
+Limited twiT is compatible with Twitter. 
+
+Limited winT is compatible with windows .txt files. 
 
 -----------------------------------------
 
-At the moment, version 1 is the most complete algorithm. Even PGP messages are supported. 
+If 1.1 is not compatible with a site not mentioned here, try using the limited versions and report back so the list can be updated. 
 
 
