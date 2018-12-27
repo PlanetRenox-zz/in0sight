@@ -7,7 +7,7 @@ var bodyContent = document.getElementsByTagName("body")[0].textContent;
 
 // Scan for zero width spaces | open to more efficient suggestions
 // https://stackoverflow.com/revisions/5296314/6
-var key = new RegExp('\u{200B}|\u{FEFF}|\u{200C}|\u{200D}|\u{200F}|\u{200E}|\u{2060}|\u{00AD}|\u{3164}|\u{180E}');
+var key = new RegExp('\u{200B}|\u{FEFF}|\u{200C}|\u{200D}|\u{200F}|\u{200E}|\u{2060}|\u{180E}');
 var res = key.test(bodyContent);
 
 
