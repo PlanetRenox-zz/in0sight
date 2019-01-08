@@ -1,4 +1,4 @@
-###### Starting today this page will no longer be updated. Please see https://planetrenox.com/PR/in0sight
+###### For a more updated page, please see https://planetrenox.com/PR/in0sight
 
 # in<a href="https://addons.mozilla.org/en-US/firefox/addon/in0sight/"><img src="/icons/icon-48.png?raw=true" alt="alt text" width="22px"></a>sight <img src="https://img.shields.io/badge/Maintained%20%3F-Yes-green.svg"> <img src="https://badges.frapsoft.com/os/v2/open-source.png?v=103"> <img src="https://img.shields.io/badge/version-1.1-lightgrey.svg"> [![](https://img.shields.io/amo/users/in0sight.svg)](https://addons.mozilla.org/en-US/firefox/addon/in0sight/) [![](https://img.shields.io/github/license/planetrenox/in0sight.svg)](https://github.com/PlanetRenox/in0sight/blob/master/LICENSE) <a href="https://addons.mozilla.org/en-US/firefox/addon/in0sight/statistics/?last=365"><img src="https://img.shields.io/badge/downloads-~800-red.svg"></a>
 
@@ -10,8 +10,8 @@ If you come across any bugs or questions submit them to the issues tab or contac
 
 ###### Recently update 1.1 has been released which improved the storage/size efficiency and addressed many common bugs. While introducing new limited algorithms.
 
-* Firefox: [Download](https://addons.mozilla.org/en-US/firefox/addon/in0sight/)
-* Chrome: Soon™
+* Firefox: [Install](https://addons.mozilla.org/en-US/firefox/addon/in0sight/)
+* Chrome: [Install](https://chrome.google.com/webstore/detail/in%C3%B8sight-%E2%80%94-zero-width-obf/fkobnhlaipildbjmlhaolahpplolnpcn)
 
 --------------------------------------------------------------
 
