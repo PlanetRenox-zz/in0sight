@@ -1,4 +1,4 @@
-/* PlanetRenox.com | github.com/PlanetRenox
+/* PlanetRenox.com/repos/in0sight
 Contact: PlanetRenox@PM.ME */
 
 html, body, div, span, applet, object, iframe,
@@ -29,9 +29,13 @@ footer, header, hgroup, menu, nav, section {
 
 /* ---------------------------------------------------- */
 
+@font-face {
+  font-family: "LocalCandara";
+  src: url("/resources/fonts/candara-webfont.woff") format("woff");
+}
 
 body {
-font-family: Candara, Sans-Serif, Helvetica, Arial, "DejaVu Sans";
+font-family: Candara, "DejaVu Sans", Sans-Serif, LocalCandara, Arial, Helvetica;
 background-color: #002b4d;
 width: 500px;
 height: 320px;
@@ -61,6 +65,12 @@ border: 1.5px solid rgb(0, 126, 199);
   width: 95.5%;
   height:69%;
   line-height:22px;
+	font-family: "Open Sans", Candara, "DejaVu Sans", Sans-Serif, LocalCandara, Arial, Helvetica;
+	font-size: 13px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
 }
 
 input{
@@ -95,7 +105,7 @@ select{
 }
 
 #notice {
-  font-size: 11px;
+  font-size: 10px;
   margin-top: 1.5%;
   padding: .8% 0% 0% 1.7%;
   color: rgb(229, 244, 255, 0.6);
