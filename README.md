@@ -1,10 +1,23 @@
+# inØsight <img src="https://badgen.net/badge/maintained/Yes?color=black&icon/"> <a href="https://addons.mozilla.org/en-US/firefox/addon/in0sight/statistics/?last=365"><img src="https://badgen.net/badge/downloads/~900?color=black&icon/"></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/in0sight/"><img src="https://badgen.net/amo/users/in0sight?color=black&icon=firefox"></a> <a href="https://chrome.google.com/webstore/detail/in%C3%B8sight-%E2%80%94-zero-width-obf/fkobnhlaipildbjmlhaolahpplolnpcn"><img src="https://badgen.net/chrome-web-store/users/fkobnhlaipildbjmlhaolahpplolnpcn?icon=chrome&color=black"></a> <img src="https://badgen.net/badge/version/1.4?color=black&icon/"> <a href="https://planetrenox.com/repos/in0sight/src/branch/master/LICENSE"><img src="https://badgen.net/badge/license/WPL?color=black&icon/"></a> <img src="https://badges.frapsoft.com/os/v3/open-source.svg?v=103">
 
+Zero Width Characters are Unicode characters that take up no space and are invisible even when you try to highlight them. Generally they are used to assist more abstract foreign languages that require separators but not exactly an entire space.
 
-# in<a href="https://addons.mozilla.org/en-US/firefox/addon/in0sight/"><img src="/icons/icon-48.png?raw=true" alt="alt text" width="22px"></a>sight <img src="https://badgen.net/badge/maintained/Yes?color=black&icon/"> 
+This extension is able to obfuscate any message inside zero width spaces which can be placed almost anywhere invisible to the naked eye. Also detect and be notified of such characters around the web.
 
-#### OFFICIAL REPO: https://planetrenox.com/repos/in0sight
+There is no limit in text length or size. Some websites or services may restrict some zero width characters, however more limited algorithms have been added to get around them. You can view them [here](https://planetrenox.com/repos/in0sight/src/branch/master/CompatibilityList.md).
 
-* Firefox: [Install](https://addons.mozilla.org/en-US/firefox/addon/in0sight/)
-* Chrome: [Install](https://chrome.google.com/webstore/detail/in%C3%B8sight-%E2%80%94-zero-width-obf/fkobnhlaipildbjmlhaolahpplolnpcn)
+Completely open source, advertisement, and log free.
 
-###### This repo is outdated and will no longer be updated. 
+###### If you come across any bugs or questions submit them to the issues tab or contact planetrenox@pm.me
+
+* **Firefox: [Install](https://addons.mozilla.org/en-US/firefox/addon/in0sight/)**
+* **Chrome: [Install](https://chrome.google.com/webstore/detail/in%C3%B8sight-%E2%80%94-zero-width-obf/fkobnhlaipildbjmlhaolahpplolnpcn)**
+
+![](https://planetrenox.com/repos/in0sight/raw/commit/29086edb31598575b868ccc54251fabd7a3623ec/images/ui.png "User Interface")
+
+## Contributors - [Info](https://planetrenox.com/repos/in0sight/wiki/Contributing)
+
+<a href="https://shelmor.keybase.pub/"><img width="85" src="https://planetrenox.com/repos/in0sight/raw/branch/master/images/contributors/imgww.png"></a>
+
+## License
+[WPL](https://planetrenox.com/repos/in0sight/src/branch/master/LICENSE)
