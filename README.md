@@ -15,9 +15,9 @@ Completely open source, advertisement, and log free.
 
 ![](https://git.planetrenox.com/inzerosight/browser-extension/raw/branch/master/images/ui.png "User Interface")
 
-## Contributors - [Info](https://git.planetrenox.com/repos/in0sight/wiki/Contributing)
+## Contributors - [Info](https://git.planetrenox.com/inzerosight/browser-extension/wiki/Contributing)
 
 <a href="https://shelmor.keybase.pub/"><img width="85" src="https://git.planetrenox.com/inzerosight/browser-extension/raw/branch/master/images/contributors/imgww.png"></a>
 
 ## License
-[WPL](https://git.planetrenox.com/repos/in0sight/src/branch/master/LICENSE)
+[WPL](https://git.planetrenox.com/inzerosight/browser-extension/src/branch/master/LICENSE)
