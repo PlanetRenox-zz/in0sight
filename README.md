@@ -13,11 +13,11 @@ Completely open source, advertisement, and log free.
 * **Firefox: [Install](https://addons.mozilla.org/en-US/firefox/addon/in0sight/)**
 * **Chrome: [Install](https://chrome.google.com/webstore/detail/in%C3%B8sight-%E2%80%94-zero-width-obf/fkobnhlaipildbjmlhaolahpplolnpcn)**
 
-![](https://planetrenox.com/repos/in0sight/raw/commit/29086edb31598575b868ccc54251fabd7a3623ec/images/ui.png "User Interface")
+![](https://git.planetrenox.com/inzerosight/browser-extension/raw/branch/master/images/ui.png "User Interface")
 
-## Contributors - [Info](https://planetrenox.com/repos/in0sight/wiki/Contributing)
+## Contributors - [Info](https://git.planetrenox.com/repos/in0sight/wiki/Contributing)
 
-<a href="https://shelmor.keybase.pub/"><img width="85" src="https://planetrenox.com/repos/in0sight/raw/branch/master/images/contributors/imgww.png"></a>
+<a href="https://shelmor.keybase.pub/"><img width="85" src="https://git.planetrenox.com/inzerosight/browser-extension/raw/branch/master/images/contributors/imgww.png"></a>
 
 ## License
-[WPL](https://planetrenox.com/repos/in0sight/src/branch/master/LICENSE)
+[WPL](https://git.planetrenox.com/repos/in0sight/src/branch/master/LICENSE)
