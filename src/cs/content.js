@@ -105,7 +105,7 @@ function initScan()
       // ——————————————————————————————————————————————————
       //
       var inlineScript = document.createElement('script');
-      inlineScript.src = browser.runtime.getURL('cs/inlineScript.js');
+      inlineScript.src = chrome.runtime.getURL('cs/inlineScript.js');
       inlineScript.onload = function()
       {
         this.remove();
