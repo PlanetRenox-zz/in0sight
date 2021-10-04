@@ -1,5 +1,5 @@
 // Update Notes
-browser.runtime.onInstalled.addListener(listener);
+/*browser.runtime.onInstalled.addListener(listener);
 
 function listener(details)
 {
@@ -12,3 +12,4 @@ function listener(details)
     });
   }
 }
+*/
