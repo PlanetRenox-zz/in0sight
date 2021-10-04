@@ -1,5 +1,5 @@
 /*
-planetrenox.com/repos/in0sight
+https://github.com/PlanetRenox/in0sight
 Contact: planetrenox@pm.me
 */
 document.getElementById("zerosight-button").addEventListener("click", replace);

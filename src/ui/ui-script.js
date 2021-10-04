@@ -1,4 +1,4 @@
-// planetrenox.com/repos/in0sight
+// https://github.com/PlanetRenox/in0sight
 // Contact: planetrenox@pm.me
 //
 // Generally, sites accept all zero width characters, however some sites make what i assume are manual restrictions for example with twitter and Protonmail.
@@ -1177,7 +1177,7 @@ function obfuscateV1_2(sec)
     }
     else if (dictionaryV1_2sc[sec.charAt(i).toLowerCase()] !== undefined) // Check to see if character is in this dictionary
     {
-      
+
       if (currDictionary != dictionaryV1_2sc)
       {
         // insert sequence into unicode path to let deobfuscate method know to start using this dictionary.

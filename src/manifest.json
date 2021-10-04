@@ -2,10 +2,10 @@
 
   "manifest_version": 2,
   "name": "inØsight — Zero Width Obfuscation",
-  "version": "1.4.1",
+  "version": "1.4.3",
 
   "author": "planetrenox@pm.me",
-  "homepage_url": "https://planetrenox.com/repos/in0sight",
+  "homepage_url": "https://github.com/PlanetRenox/in0sight",
   "description": "Communicate undetected in plain sight using zero width obfuscation.",
 
   "icons": {

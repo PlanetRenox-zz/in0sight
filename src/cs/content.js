@@ -1,6 +1,7 @@
-// PlanetRenox.com/repos
-// Contact: PlanetRenox@PM.ME
-//
+/*
+https://github.com/PlanetRenox/in0sight
+Contact: planetrenox@pm.me
+*/
 window.addEventListener("load", wait, false);
 
 function wait()
@@ -13,7 +14,7 @@ function initScan()
   // Read text content
   var bodyContent = document.getElementsByTagName("body")[0].textContent;
   // Scan for zero width spaces | https://stackoverflow.com/revisions/5296314/6
-  var key = new RegExp('\u{FEFF}|\u{200C}|\u{200D}|\u{200E}|\u{2060}|\u{180E}');
+  var key = new RegExp('\u{200C}|\u{200E}|\u{2060}|\u{180E}');
   var res = key.test(bodyContent);
   // If we get confirmation, search more in-depth and display a notice under the paragraph
   if (res)
@@ -34,7 +35,9 @@ function initScan()
           var node = document.createTextNode("This block contains hidden text. — inØsight");
           if (nodeList[i].outerHTML.substring(0, 2) === "<h")
           {
-            nodeList[i].setAttribute("id", "zerosight-1p2-node-header");
+            //nodeList[i].setAttribute("id", "zerosight-1p2-node-header"); //legacy in case
+            nodeList[i].setAttribute("id", "zerosight-1p2-node");
+            nodeList[i].setAttribute("class", "cancel");
           }
           else
           {
@@ -50,7 +53,9 @@ function initScan()
           var node = document.createTextNode("NOTICE: Zero Width Character(s) spotted in this block.");
           if (nodeList[i].outerHTML.substring(0, 2) === "<h")
           {
-            nodeList[i].setAttribute("id", "zerosight-pre-node-header");
+            //nodeList[i].setAttribute("id", "zerosight-pre-node-header"); //legacy in case
+            nodeList[i].setAttribute("id", "zerosight-pre-node");
+            nodeList[i].setAttribute("class", "cancel");
             node = document.createTextNode("NOTICE: Zero Width Character(s) spotted in this header.");
           }
           else
