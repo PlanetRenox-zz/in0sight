@@ -1,5 +1,5 @@
 // Update Notes
-/*browser.runtime.onInstalled.addListener(listener);
+/*chrome.runtime.onInstalled.addListener(listener);
 
 function listener(details)
 {
