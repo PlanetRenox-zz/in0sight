@@ -10,7 +10,7 @@ Zero Width Characters are Unicode characters that take up no space and are invis
 
 This extension is able to obfuscate any message inside zero width spaces which can be placed almost anywhere invisible to the naked eye. Also detect and be notified of such characters around the web.
 
-There is no limit in text length or size. Some websites or services may restrict some zero width characters, however more limited algorithms have been added to get around them. You can view them [here](https://git.planetrenox.com/inzerosight/browser-extension/src/branch/master/CompatibilityList.md).
+There is no limit in text length or size. Some websites or services may restrict some zero width characters, however more limited algorithms have been added to get around them. You can view them [here](https://github.com/PlanetRenox/in0sight/blob/master/CompatibilityList.md).
 
 Completely open source, advertisement, and log free.
 
